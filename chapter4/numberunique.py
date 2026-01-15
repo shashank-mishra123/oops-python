@@ -1,0 +1,7 @@
+# write aprogram to input eight number from the user and doisplay all the unique number (once)
+s =set()
+#print(len(s))
+s.add(20)
+s.add(20.0)
+s.add("20")
+print(len(s))
