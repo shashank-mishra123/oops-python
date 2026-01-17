@@ -30,11 +30,11 @@ class Maneger(Employee):
 per =Person()
 
 emp =Employee()
-print(emp.speaking)
-print(emp.company_name)
+emp.speaking()
+emp.company_name()
 
 man = Maneger()
-print(man.speaking)
-print(man.responsibilty)
-print(man.company_name)
-print(man.employee_id)
+man.speaking()
+man.responsibilty()
+man.company_name()
+man.employee_id()

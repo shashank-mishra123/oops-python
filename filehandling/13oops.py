@@ -2,10 +2,8 @@
 class employee():
     def __init__(self):
         self.__varible=500
-    
-"""def get_varible(self):
+    def get_varible(self):
         print(self.__varible)
-        """
 
 emp = employee()
 
